@@ -28,4 +28,4 @@ Main responsibilities:
 - Ville-Pekka Alavuotunki: Game logic - https://github.com/alavuvi/
 - Tero Asilainen: Leds and sounds - https://github.com/TeroAsilainen/
 - Erika Turtinen: Display - https://github.com/er1ka1
-- Kata Niva: Buttons
+- Kata Niva: Buttons - https://github.com/kataniva
