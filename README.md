@@ -24,7 +24,8 @@ https://youtu.be/LEXwhmmTpp4
 ![60fca3d2-6a3b-474b-83bb-e0e01d506b23](https://github.com/user-attachments/assets/60c151c1-cb1d-4948-8b73-1c4cf9a40512)
 
 Main responsibilities:
-Ville-Pekka Alavuotunki: Game logic
-Tero Asilainen: Leds and sounds
-Erika Turtinen: Display
-Kata Niva: Buttons
+
+- Ville-Pekka Alavuotunki: Game logic [<img src="https://github.com/alavuvi.png" width="60px;"/><br/><sub><ahref="https://github.com/alavuvi">alavuvi</a></sub>](https://github.com/alavuvi)
+- Tero Asilainen: Leds and sounds
+- Erika Turtinen: Display
+- Kata Niva: Buttons
