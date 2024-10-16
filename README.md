@@ -3,7 +3,7 @@
 This was the first applied information technology project in Oulu University of Applied Science.
 Rection game is an arduino based game written in c++.
 
-How the game works:
+<h1>How the game works: </h1>
 
 The game starts when the user presses the start button. The leds start blinking in a random order in one second intervals. The user has to press the buttons in the corresponding order. The game speed increases after every ten led blinks. The 7-segment display shows user the current score. If the user presses the wrong button the game ends, game plays a short melody and the display shows the end score. Then you can try again. If user gets 99 points, the game will play Ode to joy. The game saves the high score in the arduino EEPROM memory.
 
