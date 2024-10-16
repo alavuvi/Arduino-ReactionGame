@@ -3,11 +3,12 @@
 This was the first applied information technology project in Oulu University of Applied Science.
 Rection game is an arduino based game written in c++.
 
-<h1>How the game works: </h1>
+<h2>How the game works: </h2>
 
 The game starts when the user presses the start button. The leds start blinking in a random order in one second intervals. The user has to press the buttons in the corresponding order. The game speed increases after every ten led blinks. The 7-segment display shows user the current score. If the user presses the wrong button the game ends, game plays a short melody and the display shows the end score. Then you can try again. If user gets 99 points, the game will play Ode to joy. The game saves the high score in the arduino EEPROM memory.
 
-Required components we used:
+<h2>Required components we used:</h2>
+
 - 4 leds.
 - 5 buttons
 - 2 7-segment displays.
@@ -18,12 +19,15 @@ Required components we used:
 - Piezo buzzer.
 - Arduino Uno R3.
 
-See the game in action:
+<h3>See the game in action:</h3>
+
 https://youtu.be/LEXwhmmTpp4
+ 
+<h3>Picture of the Arduino circuit:</h3>
 
 ![60fca3d2-6a3b-474b-83bb-e0e01d506b23](https://github.com/user-attachments/assets/60c151c1-cb1d-4948-8b73-1c4cf9a40512)
 
-Main responsibilities:
+<h2>Main responsibilities:</h2>
 
 - Ville-Pekka Alavuotunki: Game logic - https://github.com/alavuvi/
 - Tero Asilainen: Leds and sounds - https://github.com/TeroAsilainen/
