@@ -1,7 +1,7 @@
 # Arduino-ReactionGame
 
 This was the first applied information technology project in Oulu University of Applied Science.
-Rection game is an arduino based game written in c++.
+Rection game is an arduino based game written in C++.
 
 <h2>How the game works: </h2>
 
