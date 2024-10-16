@@ -26,6 +26,6 @@ https://youtu.be/LEXwhmmTpp4
 Main responsibilities:
 
 - Ville-Pekka Alavuotunki: Game logic - https://github.com/alavuvi/
-- Tero Asilainen: Leds and sounds
+- Tero Asilainen: Leds and sounds - https://github.com/TeroAsilainen/
 - Erika Turtinen: Display
 - Kata Niva: Buttons
